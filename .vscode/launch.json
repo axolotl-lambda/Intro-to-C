@@ -8,7 +8,7 @@
       "name": "(gdb) Launch",
       "type": "cppdbg",
       "request": "launch",
-      "program": "${workspaceFolder}/structs/a.out",
+      "program": "${workspaceFolder}/queue/a.out",
       "args": [],
       "stopAtEntry": false,
       "cwd": "${workspaceFolder}",
